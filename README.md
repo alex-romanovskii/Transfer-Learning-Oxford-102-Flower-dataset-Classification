@@ -9,3 +9,10 @@ The algorithm is written in Python.
 We used pre-trained models: VGG16 and Xception
 
 To see all process and discription you can in project.ipynb
+
+# What tools were used?
+- Keras
+- Keras ImageDataGenerator
+- Data Augmentation
+- Keras transfer learning
+- pandas
